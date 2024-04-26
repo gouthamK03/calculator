@@ -1,0 +1,12 @@
+
+ .container{
+   margin: 50px 200px;
+    border: 2px solid rgb(161, 157, 157);
+    width: 200px;
+    background-color: whitesmoke;
+ }
+
+
+body{
+   background-color: rgb(58, 59, 60);
+}

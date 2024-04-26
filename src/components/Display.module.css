@@ -1,0 +1,9 @@
+.inpbutton{
+    width:175px;
+    font-size: 25px;
+    margin: 10px;
+    border-radius: 5px ;
+    border: 1px solid rgb(72, 69, 69);
+    border-width: 2pxs;
+    background-color: azure;
+  }
